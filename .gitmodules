@@ -1,0 +1,6 @@
+[submodule "OOAD-unity-fe"]
+	path = OOAD-unity-fe
+	url = https://github.com/asef18766/OOAD-unity-fe.git
+[submodule "OO-Backend"]
+	path = OO-Backend
+	url = https://github.com/skps2010/OO-Backend.git
